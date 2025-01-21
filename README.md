@@ -11,10 +11,10 @@ O **Mini Clone Zelda** é um jogo 2D inspirado no universo de Zelda, com mecâni
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - **Linguagem de Programação:**  
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" />  
+  - <img src="https://skillicons.dev/icons?i=java" alt="Java" />  
 
 - **IDE:**  
-  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" />  
+  - <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" />  
 
 - **Paradigma:**  
   - Programação Orientada a Objetos (POO)  
