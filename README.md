@@ -56,9 +56,3 @@ O **Mini Clone Zelda** é um jogo 2D inspirado no universo de Zelda, com mecâni
 - Aplicar conceitos de POO no desenvolvimento de jogos.
 - Criar sprites personalizados e interativos.
 - Gerenciar colisões e interações entre objetos no jogo.
-
----
-
-## 📜 Licença
-
-Este projeto é desenvolvido para fins educacionais e está sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
