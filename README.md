@@ -3,6 +3,6 @@
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- ``<img src="https://skillicons.dev/icons?i=java" />``
-- ``<img src="https://skillicons.dev/icons?i=eclipse" />``
+- <img src="https://skillicons.dev/icons?i=java" />
+- <img src="https://skillicons.dev/icons?i=eclipse" />
 - ``Paradigma de orientação a objetos``
